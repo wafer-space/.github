@@ -17,9 +17,9 @@
 - 📅 **Timeline**:
   | Date | Milestone |
   |------|-----------|
-  | 28 Nov 2025 | Slot purchase deadline |
-  | 3 Dec 2025 | Design submission deadline |
-  | 15 Mar 2026 | Chip delivery |
+  | 28 Nov 2025 | 🛒 Slot purchase deadline |
+  | 3 Dec 2025 | 📝 Design submission deadline |
+  | 15 Mar 2026 | 📬 Chip delivery |
 
 </td>
 <td valign="top" width="50%">
