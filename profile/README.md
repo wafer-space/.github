@@ -1,11 +1,8 @@
-# wafer.space 🚀
+# [wafer.space 🚀](https://wafer.space) - Budget silicon manufacturing. Create integrated circuits without breaking the bank!
 
-**Budget silicon manufacturing. Create integrated circuits without breaking the bank!**
+[wafer.space](https://wafer.space) democratizes semiconductor manufacturing by offering affordable access to silicon fabrication, bringing the same simplification to chips that OSH Park brought to PCBs.
 
-## About
-wafer.space democratizes semiconductor manufacturing by offering affordable access to silicon fabrication, bringing the same simplification to chips that OSH Park brought to PCBs.
-
-## Current Offering: GF180MCU Run 1
+## Current Offering: GF180MCU Run 1 - [**Purchase slots on CrowdSupply →**](https://www.crowdsupply.com/wafer-space/gf180mcu-run-1/)
 - **Process**: GlobalFoundries 180nm mixed-signal (5 metal layers, MIM caps, poly resistors)
 - **Die Size**: 3.88mm × 5.07mm (~20mm²)
 - **Quantity**: 1,000 chips per slot
@@ -14,8 +11,6 @@ wafer.space democratizes semiconductor manufacturing by offering affordable acce
   - Slot purchase deadline: November 28, 2025
   - Design submission: December 3, 2025
   - Chip delivery: March 15, 2026
-
-[**Purchase slots on CrowdSupply →**](https://www.crowdsupply.com/wafer-space/gf180mcu-run-1/)
 
 ## Community & Resources
 - 🌐 [wafer.space](https://wafer.space) - Main website
