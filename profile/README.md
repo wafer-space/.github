@@ -1,9 +1,36 @@
-## Hi there 👋
+# wafer.space 🚀
+
+**Budget silicon manufacturing. Create integrated circuits without breaking the bank!**
+
+## About
+wafer.space democratizes semiconductor manufacturing by offering affordable access to silicon fabrication, bringing the same simplification to chips that OSH Park brought to PCBs.
+
+## Current Offering: GF180MCU Run 1
+- **Process**: GlobalFoundries 180nm mixed-signal (5 metal layers, MIM caps, poly resistors)
+- **Die Size**: 3.88mm × 5.07mm (~20mm²)
+- **Quantity**: 1,000 chips per slot
+- **Delivery**: Bare dies in Gel-Paks or chip-on-board options
+- **Timeline**:
+  - Slot purchase deadline: November 28, 2025
+  - Design submission: December 3, 2025
+  - Chip delivery: March 15, 2026
+
+[**Purchase slots on CrowdSupply →**](https://www.crowdsupply.com/wafer-space/gf180mcu-run-1/)
+
+## Community & Resources
+- 🌐 [wafer.space](https://wafer.space) - Main website
+- 📚 [Documentation](https://docs.wafer.space)
+- 💬 [Discord](https://discord.gg/43y2t53jpE) - Join our community
+- 🗨️ [Element/Matrix](https://matrix.to/#/#gf180mcu:fossi-chat.org) - Alternative chat
+
+## Contact
+📧 info@wafer.space
+
+---
+*Making custom silicon accessible to everyone* 🔬
 
 <!--
-
-**Here are some ideas to get you started:**
-
+Keeping original ideas for reference:
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
