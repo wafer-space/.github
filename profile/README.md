@@ -16,8 +16,8 @@
 - **Quantity**: 1,000 chips per slot
 - **Delivery**: Bare dies in Gel-Paks or chip-on-board options
 - **Timeline**:
-  - Slot purchase deadline: November 28, 2025
-  - Design submission: December 3, 2025
+  - Slot purchase by: November 28, 2025
+  - Design submission by: December 3, 2025
   - Chip delivery: March 15, 2026
 
 </td>
