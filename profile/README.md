@@ -1,7 +1,5 @@
 ## [wafer.space 🚀](https://wafer.space) - Budget silicon manufacturing.
-### Create integrated circuits without breaking the bank!
-
-[wafer.space](https://wafer.space) democratizes semiconductor manufacturing by offering affordable access to silicon fabrication, bringing the same simplification to chips that OSH Park brought to PCBs.
+#### Create integrated circuits without breaking the bank!
 
 <table>
 <tr>
