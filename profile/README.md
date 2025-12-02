@@ -8,7 +8,7 @@
 ## GF180MCU Run 1 - [Buy now!](https://www.crowdsupply.com/wafer-space/gf180mcu-run-1/)
 
 - 💵 **Price**: $7,000 USD per slot
-- 🔬 **Process**: [GF180MCU open source PDK](https://https://gf180mcu-pdk.readthedocs.io/)
+- 🔬 **Process**: [GF180MCU open source PDK](https://gf180mcu-pdk.readthedocs.io/)
 - 📐 **Die Size**: 3.88mm × 5.07mm (~20mm²)
 - 📦 **Quantity**: 1,000 chips per slot
 - 🚚 **Delivery**: Bare dies or chip-on-board
