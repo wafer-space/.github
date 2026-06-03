@@ -5,19 +5,19 @@
 <tr>
 <td valign="top" width="50%">
 
-## GF180MCU Run 1 - [Buy now!](https://www.crowdsupply.com/wafer-space/gf180mcu-run-1/)
+## GF180MCU Run 2 - [Buy now!](https://www.crowdsupply.com/wafer-space/gf180mcu-run-2/)
 
-- 💵 **Price**: $7,000 USD per slot
+- 💵 **Price**: Starting from $4,000 USD per slot
 - 🔬 **Process**: [GF180MCU open source PDK](https://gf180mcu-pdk.readthedocs.io/)
-- 📐 **Die Size**: 3.88mm × 5.07mm (~20mm²)
+- 📐 **Die Size**: Up to 3.88mm × 5.07mm (~20mm²)
 - 📦 **Quantity**: 1,000 chips per slot
 - 🚚 **Delivery**: Bare dies or chip-on-board
 - 📅 **Timeline**:
   | Date | Milestone |
   |------|-----------|
-  | 28 Nov 2025 | 🛒 Slot purchase deadline |
-  | 3 Dec 2025 | 📝 Design submission deadline |
-  | 15 Mar 2026 | 📬 Chip delivery |
+  | 30 Jun 2026 | 🛒 Slot purchase deadline |
+  | 7 Jul 2026 | 📝 Design submission deadline |
+  | 30 Oct 2026 | 📬 Chip delivery |
 
 </td>
 <td valign="top" width="50%">
@@ -26,9 +26,9 @@
 
 - 🌐 [wafer.space](https://wafer.space) - Main website
 - 📚 [Documentation](https://docs.wafer.space)
-- 💬 [Discord](https://discord.gg/43y2t53jpE) - Join our community
+- 💬 [Discord](https://wafer.space/discord) - Join our community
 - 🗨️ [Element/Matrix](https://matrix.to/#/#gf180mcu:fossi-chat.org) - Alternative chat
-- 📧 info@wafer.space
+- 📧 <a href="mailto:info@wafer.space">info@wafer.space<a>
 
 </td>
 </tr>
